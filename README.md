@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ilyass Bzitar</h1>
 <h3 align="center">A passionate full stack developer from Morocco</h3>
 <div style="width:100%;height:0;padding-bottom:75%;position:relative;">
-  <iframe src="https://giphy.com/embed/dWesBcTLavkZuG35MI" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+  <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilyassbz&label=Profile%20views&color=0e75b6&style=flat" alt="ilyassbz" /> </p>
 
