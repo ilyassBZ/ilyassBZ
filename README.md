@@ -6,10 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilyassbz&label=Profile%20views&color=0e75b6&style=flat" alt="ilyassbz" /> </p>
 
-- 🌱 I’m currently learning **NextJS**
-
-- 👨‍💻 All of my projects are available at [https://ilyass-bzitar.netlify.app/](https://ilyass-bzitar.netlify.app/)
-
 - 💬 Ask me about **React, NodeJS, express, MongoDB, HTML,CSS, PHP**
 
 - 📫 How to reach me **Bzitarilyass75@gmail.com**
