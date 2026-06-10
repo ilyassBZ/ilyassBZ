@@ -2,14 +2,23 @@
 Full Stack Engineer from Morocco building production apps end-to-end  from SIP telephony and AI voice agents to SaaS platforms with payments and document management.
 ### 🔧 Tech Stack
 **Frontend:** React, TypeScript, Tailwind CSS, Vite, Redux
+
 **Backend:** Node.js, Express, Go, PHP
+
 **Databases:** PostgreSQL, MongoDB, MySQL, Redis
+
 **Messaging/Queues:** RabbitMQ
+
 **DevOps:** Docker, Nginx, GitHub Actions
+
 **AI/ML:** Google Gemini, Google Cloud STT/TTS
+
 **Payments:** Dodo Payments
+
 **Storage:** Cloudflare R2, Firebase
+
 **Telephony:** SIP, Kamailio, RTPProxy
+
 ### 🚀 Projects
 | Project | Stack | Description |
 |---|---|---|
